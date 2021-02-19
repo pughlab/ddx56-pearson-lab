@@ -1,6 +1,6 @@
 ## [insert paper title]
 
-This repository contains custom code used for single cell RNA-sequencing analysis and plotting in  Pryszlak M et al., *Cell Reports* (2021).   
+This repository contains custom code used for single cell RNA-sequencing analysis and visualization in Pryszlak M et al., *Cell Reports* (2021).   
 DOI: [insert DOI](insert link)  
 
 
