@@ -1,4 +1,4 @@
-## [insert paper title]
+## The DEAD-box helicase DDX56 is a conserved stemness regulator in normal and cancer stem cells
 
 This repository contains custom code used for single cell RNA-sequencing analysis and visualization in [Pryszlak M et al., *Cell Reports* (2021).](link)
 
